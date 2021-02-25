@@ -1,0 +1,6 @@
+{
+    "name": "otempo_cypress",
+    "scripts": {
+        "cypress": "cypress open"
+    }
+}
